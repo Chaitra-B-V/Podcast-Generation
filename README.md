@@ -1,4 +1,4 @@
-# The AI Podcaster's Secret: Leveraging Finetuned GPT-2 for Audio Productions
+# The ML Podcaster's Secret: Leveraging Finetuned GPT-2 for Audio Productions
 
 ## Abstract
 In recent times, audio generation has gained significant popularity and relevance due to its ability to deliver engaging and immersive content experiences. With the advancement of technology, including the application of finetuned GPT models, audio generation has become an effective tool for creating text-based content specifically tailored for podcasts. By leveraging these models, content creators can generate podcast scripts, dialogues, and narratives that are optimized for spoken delivery, enhancing the overall quality and appeal of their audio productions. This allows for efficient and streamlined podcast creation, enabling creators to focus on crafting compelling stories and discussions while maximizing the potential of their audio platforms.
