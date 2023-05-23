@@ -60,12 +60,15 @@ Source: https://huggingface.co/datasets/Whispering-GPT/lex-fridman-podcast
 
 Colab Link: 
 
+We opted for this dataset as it was podcast data. Using this Dataset, Our models output was in conversational style which is suitable for podcast.
+
 Harry Potter Book Series - 
 
 Source: http://www.glozman.com/textpages.html
 
 Colab Link: https://colab.research.google.com/drive/15w08HXqfl1gBof6GJbTk5BSfQNWrxQVJ?usp=sharing
 
+As we both are Harry Potter fans, We initially tried this dataset. Our model results where in book style.
 
 ## Usage
 
