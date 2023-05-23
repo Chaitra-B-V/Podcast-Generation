@@ -56,7 +56,7 @@ We Have experimented with two datasets:
 
 Hugging Face - 
 
-Source: 
+Source: https://huggingface.co/datasets/Whispering-GPT/lex-fridman-podcast
 
 Colab Link: 
 
@@ -64,7 +64,7 @@ Harry Potter Book Series -
 
 Source: http://www.glozman.com/textpages.html
 
-Colab Link: 
+Colab Link: https://colab.research.google.com/drive/15w08HXqfl1gBof6GJbTk5BSfQNWrxQVJ?usp=sharing
 
 
 ## Usage
