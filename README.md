@@ -47,7 +47,7 @@ GPT 3.5 Turbo -  is used to provide a character summary with names and attribute
 
 ElevanLabs TTS - The most appropriate voice is chosen for each character. The transcribed text is then read line by line using Text-to-Speech(TTS) by either the narrator or the character who is speaking.
 
-Metrics Used
+## Metrics Used
 
 Bleu Score : 0.03
 
