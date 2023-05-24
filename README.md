@@ -61,7 +61,6 @@ Hugging Face -
 
 Source: https://huggingface.co/datasets/Whispering-GPT/lex-fridman-podcast
 
-Colab Link: 
 
 We opted for this dataset as it was podcast data. Using this Dataset, Our models output was in conversational style which is suitable for podcast.
 
