@@ -111,6 +111,6 @@ Chaitra Bengaluru Vishweshwaraiah
 
 Krishna Pranathi Mokshagundam
 
-Demo Link: https://drive.google.com/drive/folders/1C30R6PMqM7sds0Eo3x4jH2-PdkCMEnxz?usp=sharing
+Demo Link: https://drive.google.com/file/d/1wkB4i8sgLG5p4f7kJCRt5q_cbwY8W8Fm/view
 
 Presentation Link: https://docs.google.com/presentation/d/1m47vr3eIdL5MiPIdfkZ2REFbmjkGlu79/edit?usp=sharing&ouid=103663966554730930942&rtpof=true&sd=true
